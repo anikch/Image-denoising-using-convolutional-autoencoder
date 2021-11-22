@@ -1,4 +1,4 @@
-# Image denoising using autoencoder
+# Image denoising using convolutional autoencoder
 
 **Problem Statement:**
 
