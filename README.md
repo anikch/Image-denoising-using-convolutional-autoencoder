@@ -1,6 +1,6 @@
-Image denoising autoencoder model.ipynb
+# Image denoising using autoencoder
 
-Problem Statement:
+**Problem Statement:**
 
 The dataset is similar to MNIST but includes images of specific clothing and accessory. The objective is to add some noise to the images and then use an Autoencoder to denoise them.
 
